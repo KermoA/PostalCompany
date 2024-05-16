@@ -1,1 +1,2 @@
 # DatabaseTask
+![PostalCompanyERD](PostalCompanyERD.png)
